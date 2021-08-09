@@ -1,3 +1,3 @@
-# RA-Manual
+# Research Manual
 
-The RA-Manual is stored as [Wiki entries](https://github.com/johanneswieland/RA-Manual/wiki).
+The Research Manual is stored as [Wiki entries](https://github.com/johanneswieland/RA-Manual/wiki).
